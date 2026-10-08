@@ -1,9 +1,3 @@
-# Leela-Manohar-
-Spam Email Detection Build a machine learning classifier that distinguishes spam from legitimate email using text  features and evaluates false positives and false negatives.
- 📧 Spam Email Detection
-
-A machine learning project that classifies text messages/emails as **Spam** or **Legitimate (Ham)** using text features.
-
 ## Problem Statement
 
 Build a machine learning classifier that distinguishes spam from legitimate email using text features and evaluates false positives and false negatives.
